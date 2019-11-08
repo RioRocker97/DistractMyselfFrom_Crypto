@@ -1,0 +1,18 @@
+img{
+    width: 20%;
+    height: 20%;
+}
+input{
+    background-color: black;
+    color: brown;
+    padding: 10px;
+    border: none;
+}
+input:hover{
+    background-color: red;
+    color: blue;
+}
+input:active{
+    background-color: black;
+    color: white;
+}
