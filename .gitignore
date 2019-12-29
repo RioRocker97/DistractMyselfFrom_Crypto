@@ -328,3 +328,28 @@ Node.js/node_modules/.bin/mime.ps1
 Node.js/node_modules/.bin/mime.cmd
 Node.js/node_modules/.bin/mime
 Node.js/package-lock.json
+New Node.js/package-lock.json
+New Node.js/node_modules/upper-case/README.md
+New Node.js/node_modules/upper-case/package.json
+New Node.js/node_modules/upper-case/LICENSE
+New Node.js/node_modules/upper-case/dist/index.spec.js.map
+New Node.js/node_modules/upper-case/dist/index.spec.js
+New Node.js/node_modules/upper-case/dist/index.spec.d.ts
+New Node.js/node_modules/upper-case/dist/index.js.map
+New Node.js/node_modules/upper-case/dist/index.js
+New Node.js/node_modules/upper-case/dist/index.d.ts
+New Node.js/node_modules/upper-case/dist.es2015/index.spec.js.map
+New Node.js/node_modules/upper-case/dist.es2015/index.spec.js
+New Node.js/node_modules/upper-case/dist.es2015/index.spec.d.ts
+New Node.js/node_modules/upper-case/dist.es2015/index.js.map
+New Node.js/node_modules/upper-case/dist.es2015/index.js
+New Node.js/node_modules/upper-case/dist.es2015/index.d.ts
+New Node.js/node_modules/tslib/tslib.js
+New Node.js/node_modules/tslib/tslib.html
+New Node.js/node_modules/tslib/tslib.es6.js
+New Node.js/node_modules/tslib/tslib.es6.html
+New Node.js/node_modules/tslib/tslib.d.ts
+New Node.js/node_modules/tslib/README.md
+New Node.js/node_modules/tslib/package.json
+New Node.js/node_modules/tslib/LICENSE.txt
+New Node.js/node_modules/tslib/CopyrightNotice.txt
