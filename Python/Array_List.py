@@ -12,7 +12,7 @@ print(car)
 my_car = car.pop() 
 #default POP function will get info from last index and then delete
 print(car)
-
+print(my_car)
 car2 = []
 #Empty List is FALSE
 while car :
