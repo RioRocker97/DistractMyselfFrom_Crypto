@@ -12,9 +12,10 @@ food[0] = "Baked Potatoes"
 food[1] = "Pizza"
 food["homemade"] = "cup noodle"
 food[myfood] = "Chicken tendies"
-
+food['$$$'] = "Cavier"
 console.log(food)
 console.log(typeof food === "array")
 console.log(typeof food)
 console.log(food.homemade)
 console.log(food[myfood])
+console.log(food['$$$'])
