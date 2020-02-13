@@ -11,5 +11,19 @@ var mycar = {
     speed: "super",
     color: "Red"
 };
-document.write(person.name,'<br>');
-document.write(mycar.color);
+var manyfx = {
+    plus1: function myplus1(a){
+        return a+1
+    },
+    plus2: function myplus2(a){
+        return a+2
+    }
+};
+//document.write(person.name,'<br>');
+//document.write(mycar.color);
+var thisspeed = mycar.speed
+mycar.speed = "Faster than light"
+console.log(thisspeed)
+console.log(mycar.speed)
+console.log("This is",manyfx.plus1(15))
+console.log("This is",manyfx.plus2(15))
