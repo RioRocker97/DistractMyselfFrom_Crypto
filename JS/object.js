@@ -23,6 +23,7 @@ var manyfx = {
 //document.write(mycar.color);
 var thisspeed = mycar.speed
 mycar.speed = "Faster than light"
+
 console.log(thisspeed)
 console.log(mycar.speed)
 console.log("This is",manyfx.plus1(15))
