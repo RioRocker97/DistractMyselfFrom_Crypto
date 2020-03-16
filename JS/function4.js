@@ -15,3 +15,12 @@ for(i=0;i<3;i++){
 console.log(number)
 
 // try it on browser to see the TRUE result
+var name_edit = []
+_.filter(name,function(n){
+    n+="Noi"
+    if(n != 'ChangNoi'){
+        name_edit.push(n)
+        return true;
+    }
+})
+console.log(name_edit)
