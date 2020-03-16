@@ -24,3 +24,14 @@ _.filter(name,function(n){
     }
 })
 console.log(name_edit)
+// _.filter() good for sorting value through list and return that TRUE list
+
+//ES6 arrow function
+// ... < spread operator . use it to SPREAD the remaining arguments 
+//that not declare in function statement
+var parrot = (...word) => {
+    //console.log(arguments);
+    console.log("The Parrot say :",word)
+};
+
+parrot("Kaw Kaw",12)
