@@ -35,3 +35,16 @@ var parrot = (...word) => {
 };
 
 parrot("Kaw Kaw",12)
+
+// too many arguments in this file . try this in new browser console 
+var makeArr = function(){
+    const arr = Array.prototype.slice.call(arguments);
+    arr.push('69420');
+    return arr.join(' ');
+    };
+
+makeArr('This','guy','love')
+
+var speakup = (abc) =>{
+    return "I am now " + abc;
+}
